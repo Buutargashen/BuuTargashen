@@ -1,6 +1,6 @@
 Hi This is my first github repo.
 <br>
-Author -: Buu Kinga 
+Author -: Kinga Tshering
 
 <!--
 **Buutargashen/BuuTargashen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
